@@ -4359,7 +4359,7 @@
             },
             "properties": {
                 "IDVASO": "V069",
-                "DESCVASO": "ZONA \"A-1\""
+                "DESCVASO": "ZONA A-1"
             },
             "id": "V069"
         },
@@ -4714,7 +4714,7 @@
             },
             "properties": {
                 "IDVASO": "V089",
-                "DESCVASO": "ZONA \"A-2\""
+                "DESCVASO": "ZONA A-2"
             },
             "id": "V089"
         },
