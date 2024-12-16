@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S001",
+        "IDVASO": "S006",
         "DESCVASO": "LAS AGUILAS"
       },
       "geometry": {
@@ -122,12 +122,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S001"
+      "id": "S006"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S002",
+        "IDVASO": "S005",
         "DESCVASO": "2B SUR"
       },
       "geometry": {
@@ -321,12 +321,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S002"
+      "id": "S005"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S003",
+        "IDVASO": "S004",
         "DESCVASO": "1B"
       },
       "geometry": {
@@ -388,12 +388,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S003"
+      "id": "S004"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S004",
+        "IDVASO": "S003",
         "DESCVASO": "3B"
       },
       "geometry": {
@@ -431,12 +431,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S004"
+      "id": "S003"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S005",
+        "IDVASO": "S002",
         "DESCVASO": "4B"
       },
       "geometry": {
@@ -506,12 +506,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S005"
+      "id": "S002"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S006",
+        "IDVASO": "S001",
         "DESCVASO": "5B"
       },
       "geometry": {
@@ -617,12 +617,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S006"
+      "id": "S001"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S007",
+        "IDVASO": "S008",
         "DESCVASO": "ZONA B2"
       },
       "geometry": {
@@ -668,12 +668,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S007"
+      "id": "S008"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S008",
+        "IDVASO": "S007",
         "DESCVASO": "ZONA B1"
       },
       "geometry": {
@@ -743,12 +743,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S008"
+      "id": "S007"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S009",
+        "IDVASO": "S012",
         "DESCVASO": "SM7"
       },
       "geometry": {
@@ -778,12 +778,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S009"
+      "id": "S012"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S010",
+        "IDVASO": "S011",
         "DESCVASO": "SM6"
       },
       "geometry": {
@@ -817,12 +817,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S010"
+      "id": "S011"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S011",
+        "IDVASO": "S010",
         "DESCVASO": "SM5"
       },
       "geometry": {
@@ -872,12 +872,12 @@
         ],
         "type": "Polygon"
       },
-      "id": "S011"
+      "id": "S010"
     },
     {
       "type": "Feature",
       "properties": {
-        "IDVASO": "S012",
+        "IDVASO": "S009",
         "DESCVASO": "PSM, ANEXA A V-42"
       },
       "geometry": {
@@ -935,7 +935,7 @@
         ],
         "type": "Polygon"
       },
-      "id": "S012"
+      "id": "S009"
     }
   ]
 }
